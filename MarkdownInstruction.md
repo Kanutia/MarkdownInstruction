@@ -12,6 +12,13 @@ Alternative possibilities of highlighting the text are combining fat and cursive
 
 ## Work with images
 
+For adding and image into the text, write this:
+
+![text instead of image](file name) 
+
+For example:
+! [image](Screenshot(5).png)
+
 ## Links
 
 ## Charts
