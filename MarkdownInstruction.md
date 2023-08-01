@@ -30,7 +30,7 @@ For adding and image into the text, write this:
 ![text instead of image](file name) 
 
 For example:
-! [image](Screenshot(5).png)
+! [image](0708bfbf2849b9d70a057462576f4091)
 
 ## Links
 
