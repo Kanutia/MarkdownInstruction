@@ -2,9 +2,11 @@
 
 ## Highlighting text
 
-For highlighting text with cursive you need to use stars (*) around the text. For example *like this*
+For highlighting text with cursive you need to use stars (*) or the signs of underlining (_) around the text. For example *like this* or _this_
 
-For highlighting the text fat you need to use 2 stars around the text. For example **like this**
+For highlighting the text fat you need to use 2 stars or 2 underlining signs around the text. For example **like this** or __this__
+
+Alternative possibilities of highlighting the text are combining fat and cursive. Like: _**this text ist at same time fat and cursive**_
 
 ## Lists
 
