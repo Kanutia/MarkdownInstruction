@@ -10,6 +10,7 @@ Alternative possibilities of highlighting the text are combining fat and cursive
 
 ## Lists
 
+For highlighting a list use stars
 ## Work with images
 
 For adding and image into the text, write this:
